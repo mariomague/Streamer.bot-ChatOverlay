@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Electron build output
+dist/
+build/
+out/
+
+# ASAR packaged files
+*.asar
+
+# Logs
+logs/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VSCode / Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak

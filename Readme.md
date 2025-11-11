@@ -169,7 +169,8 @@ The Electron security warning (Insecure Content-Security-Policy) is normal durin
 💡 Example Outputs:
 
 Without Background:
-![[nobackgroundpic.png]]
+[Overlay without a background](nobackgroundpic.png)
 
 With Background:
+[Overlay with a background](withbackgroundpic.png)
 ![[withbackgroundpic.png]]

@@ -107,8 +107,21 @@ Example configuration:
 
 
 ### ▶️ Running in Development
-``` bash
+
+---
+
+## 🧰 Installation Notes
+
+This repository does **not** include the Electron binaries or compiled builds you have to run npm install to get them.
+
+To run the project locally:
+
+```bash
+git clone https://github.com/mariomague/Streamer.bot-ChatOverlay.git
+cd Streamer.bot-ChatOverlay
+npm install
 npm start
+
 ```
 
 This will start the Electron app in development mode.

@@ -1,0 +1,297 @@
+/* ================== BODY ================== */
+body {
+  margin: 0;
+  padding: 8px;
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+  background: transparent;
+  overflow: hidden;
+}
+
+/* ================== CHAT CONTAINER ================== */
+#chat {
+  display: flex;
+  flex-direction: column-reverse;
+  height: 100vh;
+  pointer-events: none;
+  gap: 4px; /* Espacio reducido entre mensajes */
+}
+
+/* ================== MENSAJES ================== */
+.msg {
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 1.3;
+  padding: 3px 6px;
+  border-radius: 4px;
+  /* Sombra de texto ULTRA fuerte para máxima legibilidad sin fondo */
+  text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000,
+    0 0 5px rgba(0,0,0,1),
+    0 0 10px rgba(0,0,0,1),
+    0 0 15px rgba(0,0,0,1),
+    0 0 20px rgba(0,0,0,0.9),
+    0 3px 12px rgba(0,0,0,1);
+  
+  /* Animación de entrada (#5) */
+  animation: slideIn 0.25s ease-out;
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+/* Primer mensaje de un usuario (#10 - transición mejorada) */
+.first-message {
+  background-color: rgba(255, 215, 0, 0.25);
+  border-left: 3px solid rgba(255, 215, 0, 1);
+  padding-left: 8px;
+  animation: highlight 0.5s ease, fadeHighlight 2.5s ease 1.5s forwards;
+}
+
+/* SuperChat destacado (#4) */
+.superchat {
+  background: linear-gradient(135deg, rgba(255, 215, 0, 0.3), rgba(255, 165, 0, 0.3));
+  border: 2px solid rgba(255, 215, 0, 1);
+  padding: 5px 10px;
+  box-shadow: 
+    0 0 15px rgba(255, 215, 0, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  animation: pulseGlow 2s ease-in-out infinite;
+  font-size: 18px;
+}
+
+.superchat .user {
+  color: #FFED4E !important;
+  font-size: 19px;
+  font-weight: 900;
+  text-shadow:
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    0 0 8px rgba(0,0,0,1),
+    0 0 15px rgba(0,0,0,1),
+    0 0 20px rgba(0,0,0,1),
+    0 0 25px rgba(255, 215, 0, 0.8);
+}
+
+/* Donation destacado (#4) */
+.donation {
+  background: linear-gradient(135deg, rgba(147, 51, 234, 0.3), rgba(126, 34, 206, 0.3));
+  border: 2px solid rgba(168, 85, 247, 1);
+  padding: 5px 10px;
+  box-shadow: 
+    0 0 15px rgba(147, 51, 234, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  font-size: 18px;
+}
+
+.donation .user {
+  color: #F0ABFC !important;
+  font-size: 19px;
+  font-weight: 900;
+  text-shadow:
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    0 0 8px rgba(0,0,0,1),
+    0 0 15px rgba(0,0,0,1),
+    0 0 20px rgba(0,0,0,1),
+    0 0 25px rgba(147, 51, 234, 0.8);
+}
+
+/* Gift de TikTok */
+.gift {
+  background: linear-gradient(135deg, rgba(255, 0, 80, 0.3), rgba(255, 20, 147, 0.3));
+  border: 2px solid rgba(255, 20, 147, 1);
+  padding: 5px 10px;
+  box-shadow: 
+    0 0 15px rgba(255, 0, 80, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  font-size: 18px;
+}
+
+.gift .user {
+  color: #FF69B4 !important;
+  font-size: 19px;
+  font-weight: 900;
+  text-shadow:
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    0 0 8px rgba(0,0,0,1),
+    0 0 15px rgba(0,0,0,1),
+    0 0 20px rgba(0,0,0,1),
+    0 0 25px rgba(255, 0, 80, 0.8);
+}
+
+/* Mensaje de TikTok - borde sutil */
+.tiktok-msg {
+  border-left: 2px solid rgba(0, 242, 234, 0.5);
+  padding-left: 6px;
+}
+
+/* ================== NOMBRE DE USUARIO ================== */
+.user {
+  font-weight: 900;
+  margin-right: 5px;
+  /* Sombra ULTRA fuerte en nombres para máxima legibilidad */
+  text-shadow:
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    0 0 8px rgba(0,0,0,1),
+    0 0 12px rgba(0,0,0,1),
+    0 0 18px rgba(0,0,0,1),
+    0 3px 15px rgba(0,0,0,1);
+}
+
+/* ================== TEXTO DEL MENSAJE ================== */
+.msg::after {
+  content: '';
+  display: inline-block;
+}
+
+/* ================== TAGS / ICONOS ================== */
+.tag { 
+  margin-left: 3px;
+  margin-right: 2px;
+  font-size: 15px;
+  vertical-align: middle;
+  display: inline-block;
+  filter: drop-shadow(0 0 2px rgba(0,0,0,0.8));
+}
+
+/* ================== EMOTES ================== */
+.emote {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 2px;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  filter: drop-shadow(0 0 2px rgba(0,0,0,0.9));
+}
+
+/* ================== ESTADOS DE CONEXIÓN ================== */
+#status {
+  position: absolute;
+  top: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 16px;
+  text-shadow: 
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    0 2px 6px rgba(0,0,0,0.9);
+  background: rgba(0, 0, 0, 0.75);
+  padding: 6px 14px;
+  border-radius: 8px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  z-index: 1000;
+}
+
+#status.visible {
+  opacity: 1;
+}
+
+/* ================== ANIMACIONES ================== */
+
+/* Animación de entrada (#5) - más rápida y sutil */
+@keyframes slideIn {
+  0% { 
+    transform: translateX(-15px);
+    opacity: 0;
+  }
+  100% { 
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Highlight inicial - más sutil */
+@keyframes highlight {
+  0% { 
+    transform: scale(1.03);
+  }
+  100% { 
+    transform: scale(1);
+  }
+}
+
+/* Fade-out gradual del highlight (#10) */
+@keyframes fadeHighlight {
+  0% {
+    background-color: rgba(255, 215, 0, 0.25);
+    border-left-color: rgba(255, 215, 0, 1);
+  }
+  100% {
+    background-color: transparent;
+    border-left-color: transparent;
+  }
+}
+
+/* Animación para SuperChat */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 
+      0 0 15px rgba(255, 215, 0, 0.6),
+      inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  }
+  50% {
+    box-shadow: 
+      0 0 25px rgba(255, 215, 0, 0.8),
+      inset 0 1px 0 rgba(255, 255, 255, 0.4);
+  }
+}

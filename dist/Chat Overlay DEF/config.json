@@ -1,0 +1,70 @@
+{
+  "window": {
+    "width": 500,
+    "height": 900,
+    "x": 300,
+    "y": 120,
+    "transparent": true,
+    "frame": false,
+    "alwaysOnTop": true
+  },
+  "chat": {
+    "direction": "topToBottom",
+    "autoRemove": true,
+    "removeAfter": 30,
+    "maxMessages": 100,
+    "blockedUsers": [
+      "Nightbot",
+      "StreamElements"
+    ],
+    "mutedUsers": [],
+    "hideCommands": false,
+    "logging": false,
+    "msgVolume": 0.7,
+    "reconnectDelay": 5000,
+    "websocketUrl": "ws://127.0.0.1:8080/",
+    "emoteSize": 28,
+    "tiktok": {
+      "enabled": true,
+      "username": "narioshorts"
+    },
+    "cooldown": {
+      "enabled": true,
+      "joinCooldown": 5000,
+      "joinGroupWindow": 10000,
+      "likeCooldown": 3000,
+      "likeGroupWindow": 5000,
+      "spamDetection": {
+        "enabled": true,
+        "maxMessagesPerUser": 5,
+        "timeWindow": 10000,
+        "action": "group"
+      }
+    },
+    "filters": {
+      "showJoins": false,
+      "showLikes": false,
+      "showShares": true,
+      "showFollows": true,
+      "showGifts": true,
+      "showChats": true,
+      "minDiamondsToShow": 0
+    },
+    "sounds": {
+      "chat": {
+        "enabled": true,
+        "volume": 0.7
+      },
+      "gift": {
+        "enabled": true,
+        "volume": 1,
+        "file": "message.wav"
+      },
+      "superchat": {
+        "enabled": true,
+        "volume": 1,
+        "file": "message.wav"
+      }
+    }
+  }
+}

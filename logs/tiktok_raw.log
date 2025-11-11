@@ -1,0 +1,4146 @@
+==============================
+[2025-10-18T18:47:11.498Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635219645156117",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813235495",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my2",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813234958",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "7128947158418621446",
+    "nickname": "pedro",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=1e0a1ceb&x-expires=1760983200&x-signature=bwTVgE%2Bt0ddeJdlXJiHr6n2vCM0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=d7761322&x-expires=1760983200&x-signature=abfFI4cC1YlRStiZlbFdANoQ6aA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=6b456d41&x-expires=1760983200&x-signature=iTzaB5El7FUjqD2HwH8qQdJ2Cbk%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=c9df4d16&x-expires=1760983200&x-signature=88B5iF4e0GiMg07fYGWcqdcOYxk%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=c07e82b6&x-expires=1760983200&x-signature=RWa6jH%2FUHmetGcdPkRAda3QRf9o%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2"
+      ],
+      "mUri": "100x100/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "8",
+      "followerCount": "103",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "angeltiktok386",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAnML7LzIPJzFv81FE0QTiA9hh-AzaiLTmq66jtakgNSGtta8uF2gamvWM4vLhLaSA",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "cuando van hacer un live sacando los perros",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "9583448"
+    },
+    {
+      "version": "commentator_id",
+      "score": "7128947158418621446"
+    },
+    {
+      "version": "default",
+      "score": "1760813236125000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813245461000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186764539000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240029173"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249970825"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813235461000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813230000003"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260000003"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813234672044"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "370ddc459034f548ff9010f3dd411a74",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.499Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635224444373780",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813235866",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my2",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813235355",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "7250972263243252742",
+    "nickname": "𝓜𝒾𝓵ℯ 🌻💙",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=663463c8&x-expires=1760983200&x-signature=C3xZLm2jzVSn%2FG6cJCCrgYMAE0k%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2734eb75&x-expires=1760983200&x-signature=3VcakL8dCjeV5zH7Fm7sFNTjfdk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=9eecbd5a&x-expires=1760983200&x-signature=Dc8vnIRtbr%2FokfqHWWVKt5X10Ik%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=da939a69&x-expires=1760983200&x-signature=wP644siNSjUw592Md7Z8hXO2oeY%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=24e4be2c&x-expires=1760983200&x-signature=f%2BmFX3Zs%2FMOoZyrm0hbs9AotNFs%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2"
+      ],
+      "mUri": "100x100/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "251",
+      "followerCount": "81",
+      "followStatus": "1",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "mlnrtz6",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAnOecgxH1F3p_Emg9R3-ZBNyRgsWVWA21hVTev_H6FnYtIjx9YDw4Bdui8ElKcryi",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [
+      {
+        "badgeDisplayType": 4,
+        "badgePriorityType": 20,
+        "badgeScene": 8,
+        "position": 1,
+        "displayStatus": 0,
+        "greyedByClient": "0",
+        "exhibitionType": 0,
+        "schemaUrl": "sslocal://webcast_lynxview_popup?use_spark=1&url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_live_revenue_user_level_main%2Fsrc%2Fpages%2Fprivilege%2Fpanel%2Ftemplate.js&hide_status_bar=0&hide_nav_bar=1&container_bg_color=00000000&height=90%25&bdhm_bid=tiktok_live_revenue_user_level_main&use_forest=1",
+        "display": true,
+        "logExtra": {
+          "dataVersion": "2",
+          "privilegeId": "7138381747292608292",
+          "privilegeVersion": "0",
+          "privilegeOrderId": "mock_fix_width_transparent_7138381747292608292",
+          "level": "19"
+        },
+        "combine": {
+          "badgeDisplayType": 4,
+          "icon": {
+            "url": [
+              "https://p16-webcast.tiktokcdn.com/webcast-va/grade_badge_icon_lite_lv15_v2.png~tplv-obj.image",
+              "https://p19-webcast.tiktokcdn.com/webcast-va/grade_badge_icon_lite_lv15_v2.png~tplv-obj.image"
+            ],
+            "mUri": "webcast-va/grade_badge_icon_lite_lv15_v2.png",
+            "height": 0,
+            "width": 0,
+            "avgColor": "",
+            "imageType": 0,
+            "schema": "sslocal://webcast_lynxview_popup?use_spark=1&url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_live_revenue_user_level_main%2Fsrc%2Fpages%2Fprivilege%2Fpanel%2Ftemplate.js&hide_status_bar=0&hide_nav_bar=1&container_bg_color=00000000&height=90%25&bdhm_bid=tiktok_live_revenue_user_level_main&use_forest=1",
+            "isAnimated": false
+          },
+          "str": "19",
+          "padding": {
+            "useSpecific": true,
+            "middlePadding": 1,
+            "badgeWidth": 32,
+            "leftPadding": 0,
+            "rightPadding": 0,
+            "iconTopPadding": 0,
+            "iconBottomPadding": 0,
+            "horizontalPaddingRule": 0,
+            "verticalPaddingRule": 0
+          },
+          "fontStyle": {
+            "fontSize": 0,
+            "fontWidth": 0,
+            "fontColor": "",
+            "borderColor": ""
+          },
+          "profileCardPanel": {
+            "useNewProfileCardStyle": false,
+            "projectionConfig": {
+              "useProjection": false,
+              "icon": {
+                "url": [],
+                "mUri": "",
+                "height": 0,
+                "width": 0,
+                "avgColor": "",
+                "imageType": 0,
+                "schema": "",
+                "isAnimated": false
+              }
+            },
+            "profileContent": {
+              "useContent": false,
+              "iconList": []
+            }
+          },
+          "background": {
+            "image": {
+              "url": [],
+              "mUri": "",
+              "height": 0,
+              "width": 0,
+              "avgColor": "",
+              "imageType": 0,
+              "schema": "",
+              "isAnimated": false
+            },
+            "backgroundColorCode": "#B3477EFF",
+            "borderColorCode": ""
+          },
+          "backgroundDarkMode": {
+            "image": {
+              "url": [],
+              "mUri": "",
+              "height": 0,
+              "width": 0,
+              "avgColor": "",
+              "imageType": 0,
+              "schema": "",
+              "isAnimated": false
+            },
+            "backgroundColorCode": "#B3477EFF",
+            "borderColorCode": ""
+          },
+          "iconAutoMirrored": false,
+          "bgAutoMirrored": false,
+          "publicScreenShowStyle": 14,
+          "personalCardShowStyle": 15,
+          "rankListOnlineAudienceShowStyle": 0,
+          "multiGuestShowStyle": 0,
+          "paddingNewFont": {
+            "useSpecific": true,
+            "middlePadding": 1,
+            "badgeWidth": 32,
+            "leftPadding": 0,
+            "rightPadding": 0,
+            "iconTopPadding": 0,
+            "iconBottomPadding": 0,
+            "horizontalPaddingRule": 0,
+            "verticalPaddingRule": 0
+          }
+        },
+        "isCustomized": false
+      }
+    ],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "Hoy gana el clásico la mecha 🥳🥳",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "200000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "7814875"
+    },
+    {
+      "version": "commentator_id",
+      "score": "7250972263243252742"
+    },
+    {
+      "version": "default",
+      "score": "1760813236619000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813245775000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186764225000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240074144"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249925855"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813235775000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813235775000"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260003260"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813230000000"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": true,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "creatorSuccessInfo": {
+      "tags": [
+        {
+          "tagType": 50,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+            "defaultPattern": "No completó la misión “Hazte popular”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 15,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_heartMeTaskUndone",
+            "defaultPattern": "No completó la misión “Corazoncito”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 45,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_sentGiftsNotFan",
+            "defaultPattern": "No está en tu Club de fans, pero envió Regalos a tu LIVE",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 5,
+          "tagText": {
+            "displayType": "ttlive_teamManage_tag_titleGifter_tagOnly",
+            "defaultPattern": "Donador principal de Finger Heart",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": [
+              {
+                "type": 12,
+                "stringValue": "",
+                "giftValue": {
+                  "giftId": 5487,
+                  "nameRef": {
+                    "key": "live_gift_5487",
+                    "defaultPattern": "Finger Heart"
+                  },
+                  "showType": 0,
+                  "colorId": "0"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "topic": {
+        "topicActionType": 0,
+        "topicText": {
+          "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+          "defaultPattern": "No completó la misión “Hazte popular”",
+          "defaultFormat": {
+            "color": "",
+            "bold": false,
+            "italic": false,
+            "weight": 0,
+            "italicAngle": 0,
+            "fontSize": 0,
+            "useHeighLightColor": false,
+            "useRemoteClor": false
+          },
+          "piecesList": []
+        },
+        "topicTips": {
+          "displayType": "ttlive_interactionTips_improveEngage_topic_popLIVETaskUndone",
+          "defaultPattern": "Puedes informar a esta persona que puede conseguir puntos de bonus a diario después de completar todas las misiones diarias.",
+          "piecesList": []
+        }
+      }
+    },
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "005d9aff0106c3b71cfe7839adaf0b1e",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.499Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635226645105415",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813235694",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813226777",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "6829718211085337605",
+    "nickname": "CHARLY BLACK 1992 😎😎😎🔥🔥🔥",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=e2b3c2d2&x-expires=1760983200&x-signature=%2F7iZgR%2BIHVyxDn9yqyEXds0dcdQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c2bc970b&x-expires=1760983200&x-signature=mPbnJghKJ%2FWvxgPUoc2AZUTPGuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=aeacb7bb&x-expires=1760983200&x-signature=UzXRClJ3FlhMI3IRN496acpsHBE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=5bd12e4a&x-expires=1760983200&x-signature=%2F0w4B8oU5fA81qM0Ebo6YtkwO1I%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=82b5c22c&x-expires=1760983200&x-signature=391ArNnKoDtdjPlXmQCNQYlq7cE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "9999",
+      "followerCount": "1677",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "charly.black.1992",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAyLc1FluKDsMNwU1FNKzjhDpKj82sC4xyei7LZck3FWU3Mo0m_5kwnC4SHoLwabIv",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "saludo parsero te saludo Charly desde bolivia rey",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "3845505"
+    },
+    {
+      "version": "commentator_id",
+      "score": "6829718211085337605"
+    },
+    {
+      "version": "default",
+      "score": "1760813236619000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813245642000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186764358000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240104921"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249895079"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813235642000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813230003260"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260003260"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813233105797"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "creatorSuccessInfo": {
+      "tags": [
+        {
+          "tagType": 50,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+            "defaultPattern": "No completó la misión “Hazte popular”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 15,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_heartMeTaskUndone",
+            "defaultPattern": "No completó la misión “Corazoncito”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        }
+      ],
+      "topic": {
+        "topicActionType": 0,
+        "topicText": {
+          "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+          "defaultPattern": "No completó la misión “Hazte popular”",
+          "defaultFormat": {
+            "color": "",
+            "bold": false,
+            "italic": false,
+            "weight": 0,
+            "italicAngle": 0,
+            "fontSize": 0,
+            "useHeighLightColor": false,
+            "useRemoteClor": false
+          },
+          "piecesList": []
+        },
+        "topicTips": {
+          "displayType": "ttlive_interactionTips_improveEngage_topic_popLIVETaskUndone",
+          "defaultPattern": "Puedes informar a esta persona que puede conseguir puntos de bonus a diario después de completar todas las misiones diarias.",
+          "piecesList": []
+        }
+      }
+    },
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "7040af31beeaeddcbdd3f9f67fc345a0",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.500Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635232047270674",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813237113",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813234829",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "6829718211085337605",
+    "nickname": "CHARLY BLACK 1992 😎😎😎🔥🔥🔥",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=e2b3c2d2&x-expires=1760983200&x-signature=%2F7iZgR%2BIHVyxDn9yqyEXds0dcdQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c2bc970b&x-expires=1760983200&x-signature=mPbnJghKJ%2FWvxgPUoc2AZUTPGuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=aeacb7bb&x-expires=1760983200&x-signature=UzXRClJ3FlhMI3IRN496acpsHBE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=5bd12e4a&x-expires=1760983200&x-signature=%2F0w4B8oU5fA81qM0Ebo6YtkwO1I%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=82b5c22c&x-expires=1760983200&x-signature=391ArNnKoDtdjPlXmQCNQYlq7cE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "9999",
+      "followerCount": "1677",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "charly.black.1992",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAyLc1FluKDsMNwU1FNKzjhDpKj82sC4xyei7LZck3FWU3Mo0m_5kwnC4SHoLwabIv",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "saludo parsero te saludo Charly desde bolivia rey",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "3845505"
+    },
+    {
+      "version": "commentator_id",
+      "score": "6829718211085337605"
+    },
+    {
+      "version": "default",
+      "score": "1760813238118000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813247061000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186762939000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240104921"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249895079"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813237061000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813230003260"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813230003260"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813233105797"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "creatorSuccessInfo": {
+      "tags": [
+        {
+          "tagType": 50,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+            "defaultPattern": "No completó la misión “Hazte popular”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 15,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_heartMeTaskUndone",
+            "defaultPattern": "No completó la misión “Corazoncito”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        }
+      ],
+      "topic": {
+        "topicActionType": 0,
+        "topicText": {
+          "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+          "defaultPattern": "No completó la misión “Hazte popular”",
+          "defaultFormat": {
+            "color": "",
+            "bold": false,
+            "italic": false,
+            "weight": 0,
+            "italicAngle": 0,
+            "fontSize": 0,
+            "useHeighLightColor": false,
+            "useRemoteClor": false
+          },
+          "piecesList": []
+        },
+        "topicTips": {
+          "displayType": "ttlive_interactionTips_improveEngage_topic_popLIVETaskUndone",
+          "defaultPattern": "Puedes informar a esta persona que puede conseguir puntos de bonus a diario después de completar todas las misiones diarias.",
+          "piecesList": []
+        }
+      }
+    },
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "7040af31beeaeddcbdd3f9f67fc345a0",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.500Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635226485623560",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813237159",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813206195",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "6829718211085337605",
+    "nickname": "CHARLY BLACK 1992 😎😎😎🔥🔥🔥",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=e2b3c2d2&x-expires=1760983200&x-signature=%2F7iZgR%2BIHVyxDn9yqyEXds0dcdQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c2bc970b&x-expires=1760983200&x-signature=mPbnJghKJ%2FWvxgPUoc2AZUTPGuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=aeacb7bb&x-expires=1760983200&x-signature=UzXRClJ3FlhMI3IRN496acpsHBE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=5bd12e4a&x-expires=1760983200&x-signature=%2F0w4B8oU5fA81qM0Ebo6YtkwO1I%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=82b5c22c&x-expires=1760983200&x-signature=391ArNnKoDtdjPlXmQCNQYlq7cE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "9999",
+      "followerCount": "1677",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "charly.black.1992",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAyLc1FluKDsMNwU1FNKzjhDpKj82sC4xyei7LZck3FWU3Mo0m_5kwnC4SHoLwabIv",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "saludo parsero te saludo Charly desde bolivia rey",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "3845505"
+    },
+    {
+      "version": "commentator_id",
+      "score": "6829718211085337605"
+    },
+    {
+      "version": "default",
+      "score": "1760813238118000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813247108000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186762892000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240104921"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249895079"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813237108000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813230003260"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260003260"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813233105797"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "creatorSuccessInfo": {
+      "tags": [
+        {
+          "tagType": 50,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+            "defaultPattern": "No completó la misión “Hazte popular”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 15,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_heartMeTaskUndone",
+            "defaultPattern": "No completó la misión “Corazoncito”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        }
+      ],
+      "topic": {
+        "topicActionType": 0,
+        "topicText": {
+          "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+          "defaultPattern": "No completó la misión “Hazte popular”",
+          "defaultFormat": {
+            "color": "",
+            "bold": false,
+            "italic": false,
+            "weight": 0,
+            "italicAngle": 0,
+            "fontSize": 0,
+            "useHeighLightColor": false,
+            "useRemoteClor": false
+          },
+          "piecesList": []
+        },
+        "topicTips": {
+          "displayType": "ttlive_interactionTips_improveEngage_topic_popLIVETaskUndone",
+          "defaultPattern": "Puedes informar a esta persona que puede conseguir puntos de bonus a diario después de completar todas las misiones diarias.",
+          "piecesList": []
+        }
+      }
+    },
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "7040af31beeaeddcbdd3f9f67fc345a0",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.500Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635232924519176",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813237669",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813236596",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "6960094916022961157",
+    "nickname": "heldagalvis",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=ddcfb59b&x-expires=1760983200&x-signature=8TaeyXNRLk9jSXg1d6BOi5B6BZQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=e16d56cb&x-expires=1760983200&x-signature=Jn3n0CrpK6gsloG7qTtZlguLYP8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=fbae607e&x-expires=1760983200&x-signature=zSqkdy5929HPI0gpSojRvwM3AKw%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=eb9a8963&x-expires=1760983200&x-signature=bwcvJNgH9bW3ttZeMbx6ggOWu2k%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=b85530c9&x-expires=1760983200&x-signature=wDFbhhDKsQsVitAet3vZDy4Dabo%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "278",
+      "followerCount": "98",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "heldagalvis",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAiQhQlFij6umkhlo_GPGGBFAuzS1hL8Sglko6VB67f2TGdCyrvs52JtSHtGhUpX2Z",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "de que parte de Colombia son",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "5944151"
+    },
+    {
+      "version": "commentator_id",
+      "score": "6960094916022961157"
+    },
+    {
+      "version": "default",
+      "score": "1760813238618000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813247622000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186762378000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240048401"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249951598"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813237622000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813237622000"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260000631"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813232182453"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "8724843869758afb364f253dab0fe1ad",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.931Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635219645156117",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813235495",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my2",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813234958",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "7128947158418621446",
+    "nickname": "pedro",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=1e0a1ceb&x-expires=1760983200&x-signature=bwTVgE%2Bt0ddeJdlXJiHr6n2vCM0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=d7761322&x-expires=1760983200&x-signature=abfFI4cC1YlRStiZlbFdANoQ6aA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=6b456d41&x-expires=1760983200&x-signature=iTzaB5El7FUjqD2HwH8qQdJ2Cbk%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=c9df4d16&x-expires=1760983200&x-signature=88B5iF4e0GiMg07fYGWcqdcOYxk%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=c07e82b6&x-expires=1760983200&x-signature=RWa6jH%2FUHmetGcdPkRAda3QRf9o%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2"
+      ],
+      "mUri": "100x100/tos-alisg-avt-0068/95f276b20497e43a4fda6a4ec9f910c3",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "8",
+      "followerCount": "103",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "angeltiktok386",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAnML7LzIPJzFv81FE0QTiA9hh-AzaiLTmq66jtakgNSGtta8uF2gamvWM4vLhLaSA",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "cuando van hacer un live sacando los perros",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "9583448"
+    },
+    {
+      "version": "commentator_id",
+      "score": "7128947158418621446"
+    },
+    {
+      "version": "default",
+      "score": "1760813236125000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813245461000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186764539000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240029173"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249970825"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813235461000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813230000003"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260000003"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813234672044"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "370ddc459034f548ff9010f3dd411a74",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.931Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635224444373780",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813235866",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my2",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813235355",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "7250972263243252742",
+    "nickname": "𝓜𝒾𝓵ℯ 🌻💙",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=663463c8&x-expires=1760983200&x-signature=C3xZLm2jzVSn%2FG6cJCCrgYMAE0k%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2734eb75&x-expires=1760983200&x-signature=3VcakL8dCjeV5zH7Fm7sFNTjfdk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=9eecbd5a&x-expires=1760983200&x-signature=Dc8vnIRtbr%2FokfqHWWVKt5X10Ik%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=da939a69&x-expires=1760983200&x-signature=wP644siNSjUw592Md7Z8hXO2oeY%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=24e4be2c&x-expires=1760983200&x-signature=f%2BmFX3Zs%2FMOoZyrm0hbs9AotNFs%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2"
+      ],
+      "mUri": "100x100/tos-alisg-avt-0068/6fc3e4226331132738175740b3e73be1",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "251",
+      "followerCount": "81",
+      "followStatus": "1",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "mlnrtz6",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAnOecgxH1F3p_Emg9R3-ZBNyRgsWVWA21hVTev_H6FnYtIjx9YDw4Bdui8ElKcryi",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [
+      {
+        "badgeDisplayType": 4,
+        "badgePriorityType": 20,
+        "badgeScene": 8,
+        "position": 1,
+        "displayStatus": 0,
+        "greyedByClient": "0",
+        "exhibitionType": 0,
+        "schemaUrl": "sslocal://webcast_lynxview_popup?use_spark=1&url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_live_revenue_user_level_main%2Fsrc%2Fpages%2Fprivilege%2Fpanel%2Ftemplate.js&hide_status_bar=0&hide_nav_bar=1&container_bg_color=00000000&height=90%25&bdhm_bid=tiktok_live_revenue_user_level_main&use_forest=1",
+        "display": true,
+        "logExtra": {
+          "dataVersion": "2",
+          "privilegeId": "7138381747292608292",
+          "privilegeVersion": "0",
+          "privilegeOrderId": "mock_fix_width_transparent_7138381747292608292",
+          "level": "19"
+        },
+        "combine": {
+          "badgeDisplayType": 4,
+          "icon": {
+            "url": [
+              "https://p16-webcast.tiktokcdn.com/webcast-va/grade_badge_icon_lite_lv15_v2.png~tplv-obj.image",
+              "https://p19-webcast.tiktokcdn.com/webcast-va/grade_badge_icon_lite_lv15_v2.png~tplv-obj.image"
+            ],
+            "mUri": "webcast-va/grade_badge_icon_lite_lv15_v2.png",
+            "height": 0,
+            "width": 0,
+            "avgColor": "",
+            "imageType": 0,
+            "schema": "sslocal://webcast_lynxview_popup?use_spark=1&url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_live_revenue_user_level_main%2Fsrc%2Fpages%2Fprivilege%2Fpanel%2Ftemplate.js&hide_status_bar=0&hide_nav_bar=1&container_bg_color=00000000&height=90%25&bdhm_bid=tiktok_live_revenue_user_level_main&use_forest=1",
+            "isAnimated": false
+          },
+          "str": "19",
+          "padding": {
+            "useSpecific": true,
+            "middlePadding": 1,
+            "badgeWidth": 32,
+            "leftPadding": 0,
+            "rightPadding": 0,
+            "iconTopPadding": 0,
+            "iconBottomPadding": 0,
+            "horizontalPaddingRule": 0,
+            "verticalPaddingRule": 0
+          },
+          "fontStyle": {
+            "fontSize": 0,
+            "fontWidth": 0,
+            "fontColor": "",
+            "borderColor": ""
+          },
+          "profileCardPanel": {
+            "useNewProfileCardStyle": false,
+            "projectionConfig": {
+              "useProjection": false,
+              "icon": {
+                "url": [],
+                "mUri": "",
+                "height": 0,
+                "width": 0,
+                "avgColor": "",
+                "imageType": 0,
+                "schema": "",
+                "isAnimated": false
+              }
+            },
+            "profileContent": {
+              "useContent": false,
+              "iconList": []
+            }
+          },
+          "background": {
+            "image": {
+              "url": [],
+              "mUri": "",
+              "height": 0,
+              "width": 0,
+              "avgColor": "",
+              "imageType": 0,
+              "schema": "",
+              "isAnimated": false
+            },
+            "backgroundColorCode": "#B3477EFF",
+            "borderColorCode": ""
+          },
+          "backgroundDarkMode": {
+            "image": {
+              "url": [],
+              "mUri": "",
+              "height": 0,
+              "width": 0,
+              "avgColor": "",
+              "imageType": 0,
+              "schema": "",
+              "isAnimated": false
+            },
+            "backgroundColorCode": "#B3477EFF",
+            "borderColorCode": ""
+          },
+          "iconAutoMirrored": false,
+          "bgAutoMirrored": false,
+          "publicScreenShowStyle": 14,
+          "personalCardShowStyle": 15,
+          "rankListOnlineAudienceShowStyle": 0,
+          "multiGuestShowStyle": 0,
+          "paddingNewFont": {
+            "useSpecific": true,
+            "middlePadding": 1,
+            "badgeWidth": 32,
+            "leftPadding": 0,
+            "rightPadding": 0,
+            "iconTopPadding": 0,
+            "iconBottomPadding": 0,
+            "horizontalPaddingRule": 0,
+            "verticalPaddingRule": 0
+          }
+        },
+        "isCustomized": false
+      }
+    ],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "Hoy gana el clásico la mecha 🥳🥳",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "200000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "7814875"
+    },
+    {
+      "version": "commentator_id",
+      "score": "7250972263243252742"
+    },
+    {
+      "version": "default",
+      "score": "1760813236619000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813245775000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186764225000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240074144"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249925855"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813235775000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813235775000"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260003260"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813230000000"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": true,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "creatorSuccessInfo": {
+      "tags": [
+        {
+          "tagType": 50,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+            "defaultPattern": "No completó la misión “Hazte popular”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 15,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_heartMeTaskUndone",
+            "defaultPattern": "No completó la misión “Corazoncito”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 45,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_sentGiftsNotFan",
+            "defaultPattern": "No está en tu Club de fans, pero envió Regalos a tu LIVE",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 5,
+          "tagText": {
+            "displayType": "ttlive_teamManage_tag_titleGifter_tagOnly",
+            "defaultPattern": "Donador principal de Finger Heart",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": [
+              {
+                "type": 12,
+                "stringValue": "",
+                "giftValue": {
+                  "giftId": 5487,
+                  "nameRef": {
+                    "key": "live_gift_5487",
+                    "defaultPattern": "Finger Heart"
+                  },
+                  "showType": 0,
+                  "colorId": "0"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "topic": {
+        "topicActionType": 0,
+        "topicText": {
+          "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+          "defaultPattern": "No completó la misión “Hazte popular”",
+          "defaultFormat": {
+            "color": "",
+            "bold": false,
+            "italic": false,
+            "weight": 0,
+            "italicAngle": 0,
+            "fontSize": 0,
+            "useHeighLightColor": false,
+            "useRemoteClor": false
+          },
+          "piecesList": []
+        },
+        "topicTips": {
+          "displayType": "ttlive_interactionTips_improveEngage_topic_popLIVETaskUndone",
+          "defaultPattern": "Puedes informar a esta persona que puede conseguir puntos de bonus a diario después de completar todas las misiones diarias.",
+          "piecesList": []
+        }
+      }
+    },
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "005d9aff0106c3b71cfe7839adaf0b1e",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.932Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635226645105415",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813235694",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813226777",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "6829718211085337605",
+    "nickname": "CHARLY BLACK 1992 😎😎😎🔥🔥🔥",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=e2b3c2d2&x-expires=1760983200&x-signature=%2F7iZgR%2BIHVyxDn9yqyEXds0dcdQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c2bc970b&x-expires=1760983200&x-signature=mPbnJghKJ%2FWvxgPUoc2AZUTPGuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=aeacb7bb&x-expires=1760983200&x-signature=UzXRClJ3FlhMI3IRN496acpsHBE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=5bd12e4a&x-expires=1760983200&x-signature=%2F0w4B8oU5fA81qM0Ebo6YtkwO1I%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=82b5c22c&x-expires=1760983200&x-signature=391ArNnKoDtdjPlXmQCNQYlq7cE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "9999",
+      "followerCount": "1677",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "charly.black.1992",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAyLc1FluKDsMNwU1FNKzjhDpKj82sC4xyei7LZck3FWU3Mo0m_5kwnC4SHoLwabIv",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "saludo parsero te saludo Charly desde bolivia rey",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "3845505"
+    },
+    {
+      "version": "commentator_id",
+      "score": "6829718211085337605"
+    },
+    {
+      "version": "default",
+      "score": "1760813236619000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813245642000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186764358000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240104921"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249895079"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813235642000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813230003260"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260003260"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813233105797"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "creatorSuccessInfo": {
+      "tags": [
+        {
+          "tagType": 50,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+            "defaultPattern": "No completó la misión “Hazte popular”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 15,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_heartMeTaskUndone",
+            "defaultPattern": "No completó la misión “Corazoncito”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        }
+      ],
+      "topic": {
+        "topicActionType": 0,
+        "topicText": {
+          "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+          "defaultPattern": "No completó la misión “Hazte popular”",
+          "defaultFormat": {
+            "color": "",
+            "bold": false,
+            "italic": false,
+            "weight": 0,
+            "italicAngle": 0,
+            "fontSize": 0,
+            "useHeighLightColor": false,
+            "useRemoteClor": false
+          },
+          "piecesList": []
+        },
+        "topicTips": {
+          "displayType": "ttlive_interactionTips_improveEngage_topic_popLIVETaskUndone",
+          "defaultPattern": "Puedes informar a esta persona que puede conseguir puntos de bonus a diario después de completar todas las misiones diarias.",
+          "piecesList": []
+        }
+      }
+    },
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "7040af31beeaeddcbdd3f9f67fc345a0",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.932Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635232047270674",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813237113",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813234829",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "6829718211085337605",
+    "nickname": "CHARLY BLACK 1992 😎😎😎🔥🔥🔥",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=e2b3c2d2&x-expires=1760983200&x-signature=%2F7iZgR%2BIHVyxDn9yqyEXds0dcdQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c2bc970b&x-expires=1760983200&x-signature=mPbnJghKJ%2FWvxgPUoc2AZUTPGuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=aeacb7bb&x-expires=1760983200&x-signature=UzXRClJ3FlhMI3IRN496acpsHBE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=5bd12e4a&x-expires=1760983200&x-signature=%2F0w4B8oU5fA81qM0Ebo6YtkwO1I%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=82b5c22c&x-expires=1760983200&x-signature=391ArNnKoDtdjPlXmQCNQYlq7cE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "9999",
+      "followerCount": "1677",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "charly.black.1992",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAyLc1FluKDsMNwU1FNKzjhDpKj82sC4xyei7LZck3FWU3Mo0m_5kwnC4SHoLwabIv",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "saludo parsero te saludo Charly desde bolivia rey",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "3845505"
+    },
+    {
+      "version": "commentator_id",
+      "score": "6829718211085337605"
+    },
+    {
+      "version": "default",
+      "score": "1760813238118000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813247061000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186762939000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240104921"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249895079"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813237061000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813230003260"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813230003260"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813233105797"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "creatorSuccessInfo": {
+      "tags": [
+        {
+          "tagType": 50,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+            "defaultPattern": "No completó la misión “Hazte popular”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 15,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_heartMeTaskUndone",
+            "defaultPattern": "No completó la misión “Corazoncito”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        }
+      ],
+      "topic": {
+        "topicActionType": 0,
+        "topicText": {
+          "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+          "defaultPattern": "No completó la misión “Hazte popular”",
+          "defaultFormat": {
+            "color": "",
+            "bold": false,
+            "italic": false,
+            "weight": 0,
+            "italicAngle": 0,
+            "fontSize": 0,
+            "useHeighLightColor": false,
+            "useRemoteClor": false
+          },
+          "piecesList": []
+        },
+        "topicTips": {
+          "displayType": "ttlive_interactionTips_improveEngage_topic_popLIVETaskUndone",
+          "defaultPattern": "Puedes informar a esta persona que puede conseguir puntos de bonus a diario después de completar todas las misiones diarias.",
+          "piecesList": []
+        }
+      }
+    },
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "7040af31beeaeddcbdd3f9f67fc345a0",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.932Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635226485623560",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813237159",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813206195",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "6829718211085337605",
+    "nickname": "CHARLY BLACK 1992 😎😎😎🔥🔥🔥",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=e2b3c2d2&x-expires=1760983200&x-signature=%2F7iZgR%2BIHVyxDn9yqyEXds0dcdQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c2bc970b&x-expires=1760983200&x-signature=mPbnJghKJ%2FWvxgPUoc2AZUTPGuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=aeacb7bb&x-expires=1760983200&x-signature=UzXRClJ3FlhMI3IRN496acpsHBE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=5bd12e4a&x-expires=1760983200&x-signature=%2F0w4B8oU5fA81qM0Ebo6YtkwO1I%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=82b5c22c&x-expires=1760983200&x-signature=391ArNnKoDtdjPlXmQCNQYlq7cE%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-maliva-avt-0068/5e888ee9c2d8a627e477f48480dcd4f8",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "9999",
+      "followerCount": "1677",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "charly.black.1992",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAyLc1FluKDsMNwU1FNKzjhDpKj82sC4xyei7LZck3FWU3Mo0m_5kwnC4SHoLwabIv",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "saludo parsero te saludo Charly desde bolivia rey",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "3845505"
+    },
+    {
+      "version": "commentator_id",
+      "score": "6829718211085337605"
+    },
+    {
+      "version": "default",
+      "score": "1760813238118000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813247108000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186762892000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240104921"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249895079"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813237108000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813230003260"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260003260"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813233105797"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "creatorSuccessInfo": {
+      "tags": [
+        {
+          "tagType": 50,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+            "defaultPattern": "No completó la misión “Hazte popular”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        },
+        {
+          "tagType": 15,
+          "tagText": {
+            "displayType": "ttlive_interactionTips_improveEngage_tag_heartMeTaskUndone",
+            "defaultPattern": "No completó la misión “Corazoncito”",
+            "defaultFormat": {
+              "color": "",
+              "bold": false,
+              "italic": false,
+              "weight": 0,
+              "italicAngle": 0,
+              "fontSize": 0,
+              "useHeighLightColor": false,
+              "useRemoteClor": false
+            },
+            "piecesList": []
+          }
+        }
+      ],
+      "topic": {
+        "topicActionType": 0,
+        "topicText": {
+          "displayType": "ttlive_interactionTips_improveEngage_tag_popLIVETaskUndone",
+          "defaultPattern": "No completó la misión “Hazte popular”",
+          "defaultFormat": {
+            "color": "",
+            "bold": false,
+            "italic": false,
+            "weight": 0,
+            "italicAngle": 0,
+            "fontSize": 0,
+            "useHeighLightColor": false,
+            "useRemoteClor": false
+          },
+          "piecesList": []
+        },
+        "topicTips": {
+          "displayType": "ttlive_interactionTips_improveEngage_topic_popLIVETaskUndone",
+          "defaultPattern": "Puedes informar a esta persona que puede conseguir puntos de bonus a diario después de completar todas las misiones diarias.",
+          "piecesList": []
+        }
+      }
+    },
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "7040af31beeaeddcbdd3f9f67fc345a0",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:11.933Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635232924519176",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813237669",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813236596",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "6960094916022961157",
+    "nickname": "heldagalvis",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=ddcfb59b&x-expires=1760983200&x-signature=8TaeyXNRLk9jSXg1d6BOi5B6BZQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=e16d56cb&x-expires=1760983200&x-signature=Jn3n0CrpK6gsloG7qTtZlguLYP8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=fbae607e&x-expires=1760983200&x-signature=zSqkdy5929HPI0gpSojRvwM3AKw%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=eb9a8963&x-expires=1760983200&x-signature=bwcvJNgH9bW3ttZeMbx6ggOWu2k%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=b85530c9&x-expires=1760983200&x-signature=wDFbhhDKsQsVitAet3vZDy4Dabo%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-alisg-avt-0068/d221af65a57d883fb449613d5d0a813a",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "278",
+      "followerCount": "98",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "heldagalvis",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAiQhQlFij6umkhlo_GPGGBFAuzS1hL8Sglko6VB67f2TGdCyrvs52JtSHtGhUpX2Z",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "de que parte de Colombia son",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "5944151"
+    },
+    {
+      "version": "commentator_id",
+      "score": "6960094916022961157"
+    },
+    {
+      "version": "default",
+      "score": "1760813238618000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813240000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813247622000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186762378000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813240048401"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813249951598"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813237622000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813237622000"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813260000631"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813232182453"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "8724843869758afb364f253dab0fe1ad",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:13.103Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635243917036295",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813241219",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813240740",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "7370039836625028101",
+    "nickname": "yani🌸🍄",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/106d906a26ca29595e282110f63f1c92~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=1e954753&x-expires=1760983200&x-signature=k%2BDWZ5KhV8mav%2BVPiTGE5%2FWy0Rw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/106d906a26ca29595e282110f63f1c92~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=e24f773c&x-expires=1760983200&x-signature=9256dNpVaC%2FhUSGxzawIZ8NWTdE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/106d906a26ca29595e282110f63f1c92~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=b930e1b7&x-expires=1760983200&x-signature=vzU3iVXNtm8U0%2FBsRefVaCrc0O4%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/106d906a26ca29595e282110f63f1c92~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=df1700f1&x-expires=1760983200&x-signature=7%2BTFgyvCpSy6mHY3iYm07VR9WKs%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/106d906a26ca29595e282110f63f1c92~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=e7d6e4dc&x-expires=1760983200&x-signature=dvmQaXtzrKZo4xUiCgXMFD4SE2E%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my"
+      ],
+      "mUri": "100x100/tos-alisg-avt-0068/106d906a26ca29595e282110f63f1c92",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "1263",
+      "followerCount": "122",
+      "followStatus": "1",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "yanira.ariza3",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAGjfnsHEpQk3O6uDRIUrOzh-OYmGRRrLc1YZcnfIXwtcw5W1HSxcr3ZVwbDvhR0ga",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "@Gaby  no asé mucho frío",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "200000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "1825740"
+    },
+    {
+      "version": "commentator_id",
+      "score": "7370039836625028101"
+    },
+    {
+      "version": "default",
+      "score": "1760813242124000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813250000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813251195000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186758805000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813250037543"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813259962456"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813241195000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813241195000"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813270000000"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813246994847"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": true,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "c775256f8de5948eaf22eec8dd84d670",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+
+==============================
+[2025-10-18T18:47:15.414Z] EVENT: CHAT
+{
+  "common": {
+    "method": "WebcastChatMessage",
+    "msgId": "7562635271150947093",
+    "roomId": "7562602513904470795",
+    "createTime": "1760813244258",
+    "monitor": 0,
+    "isShowMsg": true,
+    "describe": "",
+    "foldType": "2",
+    "anchorFoldType": "2",
+    "priorityScore": "0",
+    "logId": "",
+    "msgProcessFilterK": "",
+    "msgProcessFilterV": "",
+    "fromIdc": "my2",
+    "toIdc": "",
+    "filterMsgTagsList": [],
+    "anchorPriorityScore": "0",
+    "roomMessageHeatLevel": "5",
+    "foldTypeForWeb": "2",
+    "anchorFoldTypeForWeb": "2",
+    "clientSendTime": "1760813243577",
+    "dispatchStrategy": 0
+  },
+  "user": {
+    "userId": "7297649192011744262",
+    "nickname": "Hamilton Dueñas",
+    "bioDescription": "",
+    "profilePicture": {
+      "url": [
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7297651334585221126~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=e66dce27&x-expires=1760983200&x-signature=8C9kNTL9EKqpESWd1QNvo3oebIo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7297651334585221126~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=0eed7699&x-expires=1760983200&x-signature=xPsCGQg3CDVc4Np7tct23QzOK20%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7297651334585221126~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=01439268&x-expires=1760983200&x-signature=jwrx49PPVz4HH%2FH2YgfhSeF%2FTzk%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7297651334585221126~tplv-tiktokx-cropcenter:100:100.webp?dr=18067&refresh_token=06381f0d&x-expires=1760983200&x-signature=7sWp8VPiFs48Vj9Kp0nSkVyfMtY%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2",
+        "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7297651334585221126~tplv-tiktokx-cropcenter:100:100.jpeg?dr=18067&refresh_token=7edf605c&x-expires=1760983200&x-signature=vC%2B%2FP0NuHlEl9cIYgmmubi3K9%2Bk%3D&t=4d5b0474&ps=ae600521&shp=a5d48078&shcp=fdd36af4&idc=my2"
+      ],
+      "mUri": "100x100/tos-maliva-avt-0068/7297651334585221126",
+      "height": 0,
+      "width": 0,
+      "avgColor": "",
+      "imageType": 0,
+      "schema": "",
+      "isAnimated": false
+    },
+    "verified": false,
+    "status": 0,
+    "createTime": "0",
+    "modifyTime": "0",
+    "secret": 0,
+    "shareQrcodeUri": "",
+    "badgeImageList": [],
+    "followInfo": {
+      "followingCount": "35",
+      "followerCount": "43",
+      "followStatus": "0",
+      "pushStatus": "0"
+    },
+    "userHonor": {
+      "totalDiamond": "0",
+      "currentHonorName": "",
+      "nextHonorName": "",
+      "level": 0,
+      "currentDiamond": "0",
+      "thisGradeMinDiamond": "0",
+      "thisGradeMaxDiamond": "0",
+      "gradeDescribe": "",
+      "gradeIconList": [],
+      "screenChatType": "0",
+      "upgradeNeedConsume": "0",
+      "nextPrivileges": "",
+      "score": "0",
+      "gradeBanner": ""
+    },
+    "specialId": "",
+    "userBadges": [],
+    "newUserBadges": [],
+    "topVipNo": 0,
+    "userAttr": {
+      "isMuted": false,
+      "isAdmin": false,
+      "isSuperAdmin": false,
+      "muteDuration": "0"
+    },
+    "payScore": "0",
+    "fanTicketCount": "0",
+    "linkMicStats": 0,
+    "uniqueId": "hamilton.dueas",
+    "enableShowCommerceSale": false,
+    "withFusionShopEntry": false,
+    "payScores": "0",
+    "verifiedContent": "",
+    "topFans": [],
+    "secUid": "MS4wLjABAAAAoXYDD0K0JQkfb6D0IAbY8mb0iGSD_Kzmp5WSv5ALQt1s8wQh_ePl4ZoUBpUM5f6h",
+    "userRole": 0,
+    "mediaBadgeImageList": [],
+    "commerceWebcastConfigIds": [],
+    "borders": [],
+    "badges": [],
+    "mintTypeLabel": [],
+    "allowFindByContacts": false,
+    "allowOthersDownloadVideo": false,
+    "allowOthersDownloadWhenSharingVideo": false,
+    "allowShareShowProfile": false,
+    "allowShowInGossip": false,
+    "allowShowMyAction": false,
+    "allowStrangeComment": false,
+    "allowUnfollowerComment": false,
+    "allowUseLinkmic": false,
+    "backgroundImgUrl": "",
+    "blockStatus": 0,
+    "commentRestrict": 0,
+    "constellation": "",
+    "disableIchat": 0,
+    "enableIchatImg": "0",
+    "exp": 0,
+    "foldStrangerChat": false,
+    "followStatus": "0",
+    "ichatRestrictType": 0,
+    "idStr": "",
+    "isFollower": false,
+    "isFollowing": false,
+    "needProfileGuide": false,
+    "pushCommentStatus": false,
+    "pushDigg": false,
+    "pushFollow": false,
+    "pushFriendAction": false,
+    "pushIchat": false,
+    "pushStatus": false,
+    "pushVideoPost": false,
+    "pushVideoRecommend": false,
+    "verifiedReason": "",
+    "enableCarManagementPermission": false,
+    "upcomingEventList": [],
+    "scmLabel": "",
+    "isBlock": false,
+    "isSubscribe": false,
+    "isAnchorMarked": false
+  },
+  "comment": "usted prepara almuerzo para todos",
+  "visibleToSender": false,
+  "fullScreenTextColor": "",
+  "inputType": 0,
+  "emotes": [],
+  "contentLanguage": "es",
+  "quickChatScene": 0,
+  "communityflaggedStatus": 0,
+  "commentQualityScores": [
+    {
+      "version": "user_type_rule",
+      "score": "100000"
+    },
+    {
+      "version": "community-flagged",
+      "score": "5333994"
+    },
+    {
+      "version": "commentator_id",
+      "score": "7297649192011744262"
+    },
+    {
+      "version": "default",
+      "score": "1760813245126000"
+    },
+    {
+      "version": "default_app",
+      "score": "10000"
+    },
+    {
+      "version": "rankV3",
+      "score": "1760813250000099"
+    },
+    {
+      "version": "ttp_rule_rerank",
+      "score": "1760813254223000"
+    },
+    {
+      "version": "timestamp_desc",
+      "score": "98239186755777000"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069",
+      "score": "1760813250044511"
+    },
+    {
+      "version": "tikcast_community_comment_18866_v7_r655069_desc",
+      "score": "1760813259955488"
+    },
+    {
+      "version": "idc_rule_rerank",
+      "score": "1760813244223000"
+    },
+    {
+      "version": "v13_r712088",
+      "score": "1760813244223000"
+    },
+    {
+      "version": "batch_rank_v1",
+      "score": "1760813270000317"
+    },
+    {
+      "version": "v20_r1002545",
+      "score": "1760813245707842"
+    }
+  ],
+  "userIdentity": {
+    "isGiftGiverOfAnchor": false,
+    "isSubscriberOfAnchor": false,
+    "isMutualFollowingWithAnchor": false,
+    "isFollowerOfAnchor": false,
+    "isModeratorOfAnchor": false,
+    "isAnchor": false
+  },
+  "commentTag": [
+    0
+  ],
+  "publicAreaMessageCommon": {
+    "scrollGapCount": "0",
+    "anchorScrollGapCount": "0",
+    "releaseToScrollArea": false,
+    "anchorReleaseToScrollArea": false,
+    "isAnchorMarked": false,
+    "portraitInfo": {
+      "userMetrics": [],
+      "portraitTag": []
+    },
+    "adminFoldType": "0"
+  },
+  "screenTime": "0",
+  "signature": "1bc0373e9436b51fb83e507b5c7e170e",
+  "signatureVersion": "v1",
+  "ecStreamerKey": ""
+}
+

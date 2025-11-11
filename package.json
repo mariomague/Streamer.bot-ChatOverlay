@@ -1,0 +1,56 @@
+{
+  "name": "chat-overlay",
+  "version": "1.0.0",
+  "description": "Chat overlay para streams",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "build:win": "electron-builder --win",
+    "build:mac": "electron-builder --mac",
+    "build:linux": "electron-builder --linux"
+  },
+  "author": "Mario Martínez Guerrero",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^38.3.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.mmg.chatoverlay",
+    "productName": "Chat Overlay",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "index.js",
+      "chat.js",
+      "chat.html",
+      "chat.css",
+      "config.json",
+      "message.wav"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "icon.ico"
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "icon.icns"
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ],
+      "icon": "icon.png"
+    }
+  },
+  "dependencies": {
+    "@electron/remote": "^2.1.3",
+    "tiktok-live-connector": "^2.1.0"
+  }
+}

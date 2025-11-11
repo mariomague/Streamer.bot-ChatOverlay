@@ -173,4 +173,3 @@ Without Background:
 
 With Background:
 [Overlay with a background](withbackgroundpic.png)
-![[withbackgroundpic.png]]
